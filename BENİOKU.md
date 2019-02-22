@@ -1,4 +1,3 @@
-$ git config --global core.autocrlf true
 # amiralbatti
 c++ Console Amiral Battı  Oyunu
 
