@@ -51,15 +51,19 @@ Oyuncular 5 Farklı Türde (uzunlukta) gemiye sahiptir , gemiler yerleştirildik
 -Daha önce atış yapılmış yada oyun tahtasında olmayan bir koordinat girmeniz durumunda program gerekli uyarıyı verir ve atış tekrarlanır.
 
 ![10](https://github.com/fatihmgenc/BattleShips/blob/master/img/img/10.png)
+
 ![11](https://github.com/fatihmgenc/BattleShips/blob/master/img/img/11.png)
 
 -Oyun sırasında iki tarafında toplam başarılı atış (vurulma sayısı) sayısı tahtaların altında görülür.
 
 ![12](https://github.com/fatihmgenc/BattleShips/blob/master/img/img/12.png)
+![13](https://github.com/fatihmgenc/BattleShips/blob/master/img/img/13.png)
 
 -Gemi içeren tüm koordinatlar vurulduktan sonra : 
 
-![13](https://github.com/fatihmgenc/BattleShips/blob/master/img/img/13.png)
+![14](https://github.com/fatihmgenc/BattleShips/blob/master/img/img/14.png)
+
+
 
 
 
